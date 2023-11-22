@@ -1,4 +1,5 @@
-<img src= "클러치 스냅샷.png" align="left" >
+<img src= "[클러치 스냅샷.png](https://github.com/Iaminjae/Server_clutch/assets/126381645/2eef2ef2-5667-42c0-b891-32e7fccd86a1)" align="left" >
+
 
 # 클러치
 
