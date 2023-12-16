@@ -1,6 +1,7 @@
 <img src= "/Users/jeonminje/Downloads/클러치 스냅샷.png" align="left" >
 
 
+![클러치 스냅샷](https://github.com/Iaminjae/Server_clutch/assets/126381645/16904a56-39df-454e-8fa5-26318d08307e)
 
 
 # 클러치
